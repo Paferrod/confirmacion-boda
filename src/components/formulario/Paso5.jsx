@@ -67,7 +67,7 @@ const Paso5 = ({ form, setForm, anterior, siguiente }) => {
                 required
               >
                 <option value="">Selecciona una opción</option>
-                <option value="3:00">A la 1:00</option>
+                <option value="3:00">A la 2:00</option>
                 <option value="5:00">A las 5:00</option>
               </select>
             </>
